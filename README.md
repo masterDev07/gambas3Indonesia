@@ -10,12 +10,16 @@ cara memanggilnya biar bisa fungsi :
 ' Gambas module file
 
 Dim x As Class1
+
 x = New Class1
 
 x.pembilangAngka(91)
+
 x.pembilangAngka(38)
 
 '  result
+
 '  sembilan puluh satu
+
 '  tiga puluh delapan
 
