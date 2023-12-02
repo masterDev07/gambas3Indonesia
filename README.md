@@ -9,9 +9,9 @@ cara memanggilnya biar bisa fungsi :
 
 ' Gambas module file
 
-Dim x As Class1
+Dim x As Duit
 
-x = New Class1
+x = New Duit
 
 x.pembilangAngka(91)
 
