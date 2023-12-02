@@ -9,13 +9,19 @@ cara memanggilnya biar bisa fungsi :
 
 ' Gambas module file
 
+
 Dim x As Duit
+
 x = New Duit
 
+
 x.pembilangAngka(91)
+
 x.pembilangAngka(38)
 
 '  result
+
 '  sembilan puluh satu
+
 '  tiga puluh delapan
 
