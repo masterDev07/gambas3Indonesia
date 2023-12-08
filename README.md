@@ -15,13 +15,13 @@ Dim x As Duit
 x = New Duit
 
 
-x.pembilangAngka(91)
+x.pembilangAngka(12)
 
-x.pembilangAngka(38)
+x.pembilangAngka(8)
 
 '  result
 
-'  sembilan puluh satu
+'  dua belas
 
-'  tiga puluh delapan
+'  delapan
 
