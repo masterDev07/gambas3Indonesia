@@ -15,8 +15,6 @@ If angka < 12 Then
   Print sebutan[angka]
   Else If angka < 20 Then 
    Print sebutan[angka - 10] & " belas"
-   Else If angka < 100 Then 
-     Print sebutan[angka / 10] & " puluh " & sebutan[angka % 10]
 ' lanjutkan sendiri untuk terbilang angka yang lain
 Endif
 End
